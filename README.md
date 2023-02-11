@@ -38,3 +38,4 @@ Other   22 mins         ██░░░░░░░░░░░░░░░░�
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
