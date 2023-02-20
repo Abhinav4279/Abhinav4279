@@ -1,4 +1,4 @@
-### <samp>&gt; Hello 🌎, I'm Abhinav Sharma *\<<a href="https://www.linkedin.com/in/abhinav4279/" target="_blank">@abhinav4279</a>\>*</samp>
+### <samp>&gt; Hello 🌎, I'm Abhinav Sharma \<<a href="https://www.linkedin.com/in/abhinav4279/" target="_blank">@abhinav4279</a>\></samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-E45826?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav4279)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-E45826?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abhinav4279)
@@ -8,7 +8,7 @@
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-E45826?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abhinav4279)
 ---
 
-### <samp> 📊 This Week I Worked On:</samp>
+### <samp> 📊 This Week I Worked On:<br>(Source: [Wakatime](https://wakatime.com/@abhinav4279))</samp>
 
 <!--START_SECTION:waka-->
 
