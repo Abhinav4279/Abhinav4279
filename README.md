@@ -13,10 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 hrs 35 mins
+Total Time: 13 hrs 30 mins
 
-C++     14 hrs 35 mins  ██████████████████████▓░░   90.28 %
-Other   1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+C++     13 hrs 30 mins  ██████████████████████▒░░   89.31 %
+Other   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
 ```
 
 <!--END_SECTION:waka-->
