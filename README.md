@@ -12,7 +12,7 @@
 [![wakatime](https://wakatime.com/badge/user/5bc05a23-387a-4a50-9270-1ab6ef33f912.svg)](https://wakatime.com/@5bc05a23-387a-4a50-9270-1ab6ef33f912)
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 0 secs
 
 No activity tracked
