@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 4 mins
+Total Time: 3 hrs 49 mins
 
-C++     5 hrs 3 mins    █████████████████████▓░░░   86.22 %
-Other   48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C++     3 hrs 49 mins   ██████████████████████░░░   88.09 %
+Other   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
