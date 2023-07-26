@@ -9,7 +9,7 @@
 ---
 
 ### <samp> 📊 This Week I Worked On:</samp>
-[![wakatime](https://wakatime.com/badge/user/5bc05a23-387a-4a50-9270-1ab6ef33f912.svg)](https://wakatime.com/@5bc05a23-387a-4a50-9270-1ab6ef33f912)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -20,7 +20,7 @@ Other   54 mins         ██░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+[![wakatime](https://wakatime.com/badge/user/5bc05a23-387a-4a50-9270-1ab6ef33f912.svg)](https://wakatime.com/@5bc05a23-387a-4a50-9270-1ab6ef33f912)
 ### <samp> 📈 My GitHub Stats:</samp>
 
 <p>
