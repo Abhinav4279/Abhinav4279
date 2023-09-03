@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 37 mins
+Total Time: 15 hrs 26 mins
 
-C++            18 hrs 7 mins   ████████████████████████▒   97.33 %
-Ezhil          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Brainfuck      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-CBM BASIC V2   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-SQL            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C++            14 hrs 57 mins  ████████████████████████▒   96.89 %
+Ezhil          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Brainfuck      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+CBM BASIC V2   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
