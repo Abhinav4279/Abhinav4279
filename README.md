@@ -20,12 +20,13 @@ C++   31 mins         ███████████████████�
 
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/5bc05a23-387a-4a50-9270-1ab6ef33f912.svg)](https://wakatime.com/@5bc05a23-387a-4a50-9270-1ab6ef33f912)
-### <samp> 📈 My GitHub Stats:</samp>
+<!--### <samp> 📈 My GitHub Stats:</samp>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinav4279&show_icons=true&icon_color=E45826&title_color=E45826&theme=graywhite&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav4279&show_icons=true&icon_color=E45826&title_color=E45826&theme=graywhite&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+!-->
 
 ### <samp>🔧 Tools/Technologies:</samp>
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
