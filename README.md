@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 59 mins
+Total Time: 3 mins
 
-JavaScript   1 hr 14 mins    ███████████████▓░░░░░░░░░   62.63 %
-SCSS         28 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-INI          14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+SCSS   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
