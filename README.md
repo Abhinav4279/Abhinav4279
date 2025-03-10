@@ -15,7 +15,7 @@
 ```txt
 Total Time: 12 hrs 30 mins
 
-JavaScript   9 hrs 23 mins   █████████████████▒░░░░░░░   68.88 %
+JavaScript   9 hrs 23 mins   █████████████████▒░░░░░░░   68.87 %
 SCSS         1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
 Other        1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
 Bash         1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
