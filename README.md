@@ -13,12 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 40 mins
+Total Time: 0 secs
 
-SCSS          32 mins         ███████████████████▓░░░░░   78.78 %
-JavaScript    5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-YAML          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
