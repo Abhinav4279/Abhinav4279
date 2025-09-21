@@ -35,6 +35,7 @@ Bash         26 mins         ▓░░░░░░░░░░░░░░░░
 ### <samp>🔧 Tools/Technologies:</samp>
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
