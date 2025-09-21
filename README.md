@@ -1,7 +1,6 @@
 ### <samp>&gt; Hello 🌎, I'm Abhinav Sharma \<<a href="https://www.linkedin.com/in/abhinav4279/" target="_blank">@abhinav4279</a>\></samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-E45826?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav4279)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-E45826?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abhinav4279)
 [![Dribbble Badge](https://img.shields.io/badge/Dribbble-E45826?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/abhinav4279)
 [![Behance Badge](https://img.shields.io/badge/Behance-E45826?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abhinav4279)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-E45826?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/abhinav4279)
