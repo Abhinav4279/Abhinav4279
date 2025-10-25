@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 44 mins
+Total Time: 33 mins
 
-C++     44 mins         ██████████████████████▒░░   89.09 %
-Other   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+C++     33 mins         █████████████████████▒░░░   85.93 %
+Other   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
 ```
 
 <!--END_SECTION:waka-->
