@@ -12,13 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 48 mins
+Total Time: 12 hrs 2 mins
 
-Python   11 hrs 41 mins  ██████████████████████▓░░   91.23 %
-C++      1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Docker   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   11 hrs 43 mins  ████████████████████████▒   97.34 %
+CSV      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Docker   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
